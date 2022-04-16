@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
+import Download from './components/Download'
+import Landing from './components/Landing'
 import About from './components/About'
 
 function App() {
@@ -8,7 +10,8 @@ function App() {
 
   return (
     <main className="text-gray-400 bg-gray-900 body-font">
-      <About/>
+      <Landing/>
+      <Download/>
     </main>
   )
 }
