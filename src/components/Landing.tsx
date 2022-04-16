@@ -6,7 +6,7 @@ export default function Landing() {
       <div className="lg:grid lg:grid-cols-2 py-8 lg:ml-8 lg:my-auto z-30" style={{ "paddingBottom": "10rem" }}>
         <div className="text-center lg:text-left px-6">
           <h1 className="text-3xl font-bold text-white sm:text-4xl lg:text-5xl xl:text-6xl">
-            A voice-enabled Smart Terminal</h1>
+            A voice-enabled <strong>Smart Terminal</strong></h1>
           <p className="mt-6 text-lg font-medium text-white md:text-xl 2xl:text-indigo-100 lg:text-2xl">
             SmarTTY is voice assisted natural human language understanding Terminal
             which can help you perform CLI tasks with much ease.
