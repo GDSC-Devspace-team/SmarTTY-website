@@ -13,11 +13,11 @@ export default function Landing() {
             So you leave behind wasting time googling for commands and spend more time coding your applications!
           </p>
           <div className="flex flex-col mt-8 lg:mb-0 mb-8 space-y-6 xl:mt-12 lg:space-y-0 lg:flex-row lg:items-center">
-            <a href="#download"
+            <a href="https://github.com/GDSC-Devspace-team/SmarTTY/releases/tag/0.0.1a"
               className="inline-flex items-center mx-auto lg:mx-0 justify-center w-auto px-5 py-5 space-x-2 text-base font-semibold text-indigo-600 transition-all duration-300 bg-white rounded-full shadow-md hover:text-white hover:bg-green-500 md:text-base lg:px-6">
               <span>Download</span>
             </a>
-            <a href="#download-list"
+            <a href="https://github.com/GDSC-Devspace-team/SmarTTY/releases/"
               className="inline-block w-auto mx-auto lg:mx-0 text-base font-semibold text-white transition-all duration-300 rounded-full md:text-base xl:text-indigo-100 xl:mt-12 md:px-8 hover:text-green-500">
               Download for another OS
             </a>
