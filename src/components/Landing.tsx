@@ -25,7 +25,7 @@ export default function Landing() {
 
         </div>
         <div className="flex">
-          <img src="/src/img/term_1.png" className="object-scale-down h-100 w-100 ml-auto lg:mr-0 mr-auto" alt="" />
+          <img src="https://i.imgur.com/KMaDzA3.png" className="object-scale-down h-100 w-100 ml-auto lg:mr-0 mr-auto" alt="" />
         </div>
 
       </div>
