@@ -9,7 +9,7 @@ export default function Gallery() {
             Gallery
           </h1>
          
-           <div className="container mx-auto space-y-2 lg:space-y-0 lg:gap-2 lg:grid lg:grid-cols-3">
+           <div className="container mx-auto space-y-2 lg:space-y-0 lg:gap-2 lg:grid lg:grid-cols-2">
           <div className="w-full rounded hover:opacity-50">
           <img src="https://i.imgur.com/CbIOhMx.png" className="object-scale-down h-100 w-100"  alt="" />
           </div>
