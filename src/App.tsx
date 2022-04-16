@@ -1,9 +1,10 @@
 import { useState } from 'react'
-import logo from './logo.svg'
+
 import './App.css'
 import Download from './components/Download'
 import Landing from './components/Landing'
-import About from './components/About'
+
+import Gallery from './components/Gallery'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,6 +13,7 @@ function App() {
     <main className="text-gray-400 bg-gray-900 body-font">
       <Landing/>
       <Download/>
+      <Gallery/>
     </main>
   )
 }
